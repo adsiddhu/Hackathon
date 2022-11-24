@@ -1,0 +1,149 @@
+.card{
+    width: 1225px;
+    font-family: Arial;
+    margin: 0 auto;
+}
+.card-header{
+    display: flex;
+}
+
+.card-header-img1{
+    margin: 30px;
+    border-radius: 15px;
+}
+
+.card-header-img2{
+    margin: 30px;
+    border-radius: 15px;
+}
+
+.img1-txt{
+    width: 250px;
+    position: absolute;
+    top: 0;
+    padding: 50px;
+    margin-top: 40px;
+    color: white;
+    font-size: 25px;
+}
+
+.img1-radius{
+    border-radius: 15px;
+}
+
+.img1-p{
+    margin-top: 5px;
+}
+
+.img1-btn{
+    top: 0;
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 50px;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 15px;
+}
+
+.img2-txt{
+    width: 250px;
+    position: absolute;
+    top: 0;
+    padding: 50px;
+    margin-left: 620px;
+    margin-top: 40px;
+    color: white;
+    font-size: 25px;
+}
+
+.img2-radius{
+    border-radius: 15px;
+}
+
+.img2-p{
+    margin-top: 5px;
+}
+
+.img2-btn{
+    top: 0;
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 670px;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 15px;
+}
+
+.card-bottom{
+    margin-top: 50px;
+    height: 300px;
+    margin: 40px;
+    display: flex;
+}
+
+.card-one-img1{
+    border-radius: 15px;
+    margin: 15px;
+}
+
+.card-bottom-one{
+    width: 350px;
+    height: 200px;
+    border: 1px solid gray;
+    border-radius: 15px;
+    display: flex;
+    box-sizing: border-box;
+}
+
+.tajmahal{
+    margin-top: 25px;
+    padding: 0px;
+    font-size: 18px;
+    font-family: Arial;
+}
+
+.rate-one{
+    display: inline-block;
+    margin-top: 5px;
+    font-size: 15px;
+}
+
+.six{
+    padding: 10px;
+    margin: 10px 5px;
+    margin-left: 0;
+    margin-top: 0;
+    border: 1px solid gray;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.seven{
+    padding: 10px;
+    margin: 10px 5px;
+    margin-top: 0px;
+    margin-left: 0;
+    border: 1px solid gray;
+    border-radius: 10px;
+    display:inline-block;
+}
+
+.card-bottom-two{
+    width: 350px;
+    height: 200px;
+    margin-left: 40px;
+    border: 1px solid gray;
+    border-radius: 15px;
+    display: flex;
+    box-sizing: border-box;
+}
+
+.card-bottom-three{
+    width: 350px;
+    height: 200px;
+    margin-left: 40px;
+    border: 1px solid gray;
+    border-radius: 15px;
+    display: flex;
+    box-sizing: border-box;
+}
